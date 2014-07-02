@@ -1,1 +1,3 @@
-["redis-brain.coffee", "shipit.coffee"]
+["redis-brain.coffee", "shipit.coffee", "abstract.coffee", "adult.coffee",
+ "advice.coffee", "applause.coffee", "ascii.coffee", "aww.coffee",
+ "bang-bang.coffee", "cricket.coffee", "directions.coffee", "gif-me.coffee"]
