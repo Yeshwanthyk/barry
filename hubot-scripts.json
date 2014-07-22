@@ -1,5 +1,21 @@
-["redis-brain.coffee", "shipit.coffee", "abstract.coffee", "adult.coffee",
- "advice.coffee", "applause.coffee", "ascii.coffee", "aww.coffee",
- "bang-bang.coffee", "cricket.coffee", "directions.coffee", "gif-me.coffee",
- "catfacts.coffee", "weather.coffee",
- "sosearch.coffee", "sloth-me.coffee", "chuck-norris.coffee", "cheer.coffee"]
+[
+ "abstract.coffee",
+ "adult.coffee",
+ "advice.coffee",
+ "applause.coffee",
+ "ascii.coffee",
+ "aww.coffee",
+ "bang-bang.coffee",
+ "catfacts.coffee",
+ "cheer.coffee",
+ "chuck-norris.coffee",
+ "cricket.coffee",
+ "directions.coffee",
+ "gif-me.coffee",
+ "pivotal.coffee",
+ "redis-brain.coffee",
+ "shipit.coffee",
+ "sloth-me.coffee",
+ "sosearch.coffee",
+ "weather.coffee"
+]
