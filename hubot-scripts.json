@@ -18,10 +18,18 @@
  "countdown.coffee",
  "cowsay.coffee",
  "directions.coffee",
+ "encourage.coffee",
+ "eval.coffee",
+ "excuse.coffee",
+ "f-ing-weather.coffee",
+ "fortune.coffee",
  "gif-me.coffee",
+ "grumpycat.coffee",
+ "howdoi.coffee",
+ "isup.coffee",
+ "kittens.coffee",
  "redis-brain.coffee",
  "shipit.coffee",
  "sloth-me.coffee",
- "sosearch.coffee",
- "weather.coffee"
+ "sosearch.coffee"
 ]
